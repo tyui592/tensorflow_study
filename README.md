@@ -29,3 +29,6 @@
 ## real time object detector(YOLO)
 *  https://arxiv.org/abs/1506.02640
 * unified object detector
+
+# Notice (2019.8.9)
+* To be updated with tensorflow r1.14 
